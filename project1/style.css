@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 3rem;
+}
+.dices{
+    align-items: center;
+    size: 20%;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 2rem;
+
+}
+.king{
+    text-decoration: double;
+}
